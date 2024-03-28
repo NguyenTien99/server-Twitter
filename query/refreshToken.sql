@@ -1,0 +1,1 @@
+db.refresh_tokens.insertOne({})
